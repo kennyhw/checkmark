@@ -1,5 +1,5 @@
 {
-  "name": "cvwo2020",
+  "name": "checkmark",
   "private": true,
   "dependencies": {
     "@babel/preset-react": "^7.7.4",

@@ -98,9 +98,8 @@ function Main(props) {
         <div class="container-fluid">
           <div class="d-flex bd-highlight justify-content-between">
             <span class="text-muted text-center small">
-              <a class="nonunderline" href="https://github.com/kennyhw/cvwo2020">Maintained on <Octicon icon={Octicons.logoGithub} className="align-bottom" />{" "}
-                <Octicon icon={Octicons.markGithub} className="align-bottom" /> </a>| Made for
-            CVWO2020 Assignment
+              <a class="nonunderline" href="https://github.com/kennyhw/checkmark">Maintained on <Octicon icon={Octicons.logoGithub} className="align-bottom" />{" "}
+                <Octicon icon={Octicons.markGithub} className="align-bottom" /> </a>
             </span>
           </div>
         </div>
